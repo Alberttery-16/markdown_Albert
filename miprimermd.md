@@ -5,11 +5,11 @@ EOF
 
 ## Código
 
-Este es un párrafo con **negrita**, *cursiva* y \`código\`.
+Este es un párrafo con **negrita**, *cursiva* y `código`.
 
-\`\`\`python
+```python
 print("Hola Markdown")
-\`\`\`
+```
 
 ## Listas
 
