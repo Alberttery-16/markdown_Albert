@@ -3,11 +3,15 @@ EOF
 
 ## Subtítulo
 
+## Código
+
 Este es un párrafo con **negrita**, *cursiva* y \`código\`.
 
 \`\`\`python
 print("Hola Markdown")
 \`\`\`
+
+## Listas
 
 1. Elemento ordenado 1  
 2. Elemento ordenado 2  
@@ -17,11 +21,17 @@ print("Hola Markdown")
 - Elemento desordenado B  
 - Elemento desordenado C  
 
+## Links
+
 [Visitar Youtube](https://youtube.com)  
 
 [Enlace a otro archivo](archivo2.md)  
 
-![Imagen Coche](https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/0_facelift_2025>
+## Imagen
+
+![Imagen Coche](https://cdn.autobild.es/sites/navi.axelspringer.es/public/bdc/dc/fotos/Lamborghini_Huracan_STO09_0.jpg)
+
+## tabla
 
 | Nombre | Edad | Ciudad |
 |--------|------|--------|
