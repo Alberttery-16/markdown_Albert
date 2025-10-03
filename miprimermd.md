@@ -8,7 +8,14 @@ EOF
 Este es un párrafo con **negrita**, *cursiva* y \`código\`.
 
 \`\`\`python
-print("Hola Markdown")
+import random
+
+numero = random.randint(1, 100)
+print(f"El número generado es: {numero}")
+if numero % 2 == 0:
+    print("Es par")
+else:
+    print("Es impar")
 \`\`\`
 
 ## Listas
